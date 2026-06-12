@@ -15,3 +15,22 @@ I started with basic formulas. Now I build automated dashboards, powerful models
 - Beautiful, professional, and production-ready workbooks
 - Detailed documentation and "How I Built This" notes in every project
 - Regularly updated with new challenges and solutions
+
+---
+
+### ⭐ If you find this repo helpful, please give it a star!
+
+It motivates me to keep adding more content.
+
+---
+
+### 🤝 Feedback & Contributions
+
+Suggestions, corrections, or new ideas are always welcome!  
+Just open an Issue or Pull Request.
+
+---
+
+**Happy Querying!** 💻
+
+Made with ❤️ by [Noble](https://github.com/AlhNobleman)
